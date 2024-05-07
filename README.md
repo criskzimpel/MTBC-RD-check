@@ -11,3 +11,5 @@ RD check for Mycobacterium tuberculosis Complex species and M. bovis Clonal comp
 
 Usage 
 > bash RDcheck_MTBC.sh
+
+#output - number of reads aligned per RD; or empty
